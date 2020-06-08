@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 2.5 Axis Automatic plotter
 permalink: /25-axis-automatic-plotter/
 ---
