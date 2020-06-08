@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 2.5 Axis Automatic plotter
-permalink: /25-axis-automatic-plotter/
+# permalink: /work/25-axis-automatic-plotter/
 ---
-
-# 2.5 Axis Automatic plotter
 
 This project served as the capstone to my semester in the Product Design course. We were tasked with designing a system that can control 2.5 axes: two axes with a full range of motion, and 1 axis with simple on/off motion control, e.g. a solenoid. We designed a plotting robot that would be able to plot any simple image.
 
