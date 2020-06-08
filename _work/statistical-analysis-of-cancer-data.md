@@ -12,4 +12,4 @@ I've included a few of the more visually interesting figures below. For the full
 
 Public health is an extremely data-reliant discipline, yet many ailments are difficult to track directly, particularly in rural areas. However as this analysis shows, mortality rates can be predicted with high accuracy using secondary data. While our analysis only focuses on generalized rates of cancer mortality, it's trivial to extrapolate the methods we use to other data sets, such as lung cancer and smoking rates. Additionally, we use a rudimentary linear model in our analysis; future analysis could utilize more robust non-linear models.
 
-![Cancer rates for different agegroups over time](statistical-analysis-of-cancer-data/cancer-rate-bar-chart) ![Male vs. female rates of cancers over time](statistical-analysis-of-cancer-data/cancer-rate-scatter-chart)
+![Cancer rates for different agegroups over time](statistical-analysis-of-cancer-data/cancer-rate-bar-chart.png) ![Male vs. female rates of cancers over time](statistical-analysis-of-cancer-data/cancer-rate-scatter-chart.png)
