@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+author: Harry Williams
 title: Hi, I'm Harry
 email: hwilliams365@gmail.com
 description: A portfolio of my academic and personal engineering projects.
