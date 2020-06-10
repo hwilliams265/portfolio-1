@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Welcome to my portfolio.
 
-You can use the [editor on GitHub](https://github.com/hwilliams265/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hwilliams265/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### To do:
+1. Make a new "about" page, preferrably in .md format
+2. Add a "resume" page
+    1. Link the resume page next to the about page at the top of the screen
+3. Add thumbnails to each portfolio entry (not 100% sure the best way to do this)
+    1. Create a "works" page that contains a gallery of the portfolio entries
+    2. Get rid of the index.html page and make the works page the default front page
+4. Replace the .md image links with embedded .html code (this will allow me to resize the images)
+    1. Resize the images so they look nice
+5. Add new portfolio entry for EK327 project
+6. Add new portfolio entry for ME461 project
