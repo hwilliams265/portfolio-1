@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
+# Default theme (minima) is located at /var/lib/gems/2.5.0/gems/minima-2.5.1
 author: Harry Williams
 title: Hi, I'm Harry
 email: hwilliams365@gmail.com
