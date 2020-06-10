@@ -27,6 +27,7 @@ description: A portfolio of my academic and personal engineering projects.
 baseurl: "/portfolio-1"
 url: "hwilliams265.github.io"
 github_username:  hwilliams265
+linkedin_username: harry-u-williams
 
 # Build settings
 theme: minima
