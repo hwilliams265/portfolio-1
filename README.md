@@ -6,7 +6,7 @@ Welcome to my portfolio.
     1. Link the resume page next to the about page at the top of the screen
 3. Add thumbnails to each portfolio entry (not 100% sure the best way to do this)
     1. Create a "works" page that contains a gallery of the portfolio entries
-    2. Get rid of the index.html page and make the works page the default front page
+    2. ~~Get rid of the index.html page and make the works page the default front page~~
 4. Replace the .md image links with embedded .html code (this will allow me to resize the images)
     1. Resize the images so they look nice
 5. Add new portfolio entry for EK327 project
