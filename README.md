@@ -8,6 +8,7 @@ Welcome to my portfolio.
     1. Create a "works" page that contains a gallery of the portfolio entries
     2. ~~Get rid of the index.html page and make the works page the default front page~~
 4. Replace the .md image links with embedded .html code (this will allow me to resize the images)
-    1. Resize the images so they look nice
+    1. add the images in for all of the portfolio pages
+    2. Resize the images so they look nice
 5. Add new portfolio entry for EK327 project
 6. Add new portfolio entry for ME461 project
