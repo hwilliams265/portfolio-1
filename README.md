@@ -12,3 +12,4 @@ Welcome to my portfolio.
     2. Resize the images so they look nice
 5. Add new portfolio entry for EK327 project
 6. Add new portfolio entry for ME461 project
+7. Edit footer so it isn't shit
