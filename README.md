@@ -13,3 +13,4 @@ Welcome to my portfolio.
 5. Add new portfolio entry for EK327 project
 6. Add new portfolio entry for ME461 project
 7. Edit footer so it isn't shit
+8. Once project is over, delete all of the theme files that weren't modified
