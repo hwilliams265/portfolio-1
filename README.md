@@ -5,7 +5,9 @@ Welcome to my portfolio.
 2. Add a "resume" page
     1. ~~Link the resume page next to the about page at the top of the screen~~
     2. ~~Add a simple image resume~~
-    3. Convert resume to html/css page
+    3. Fix ssue where .../portfolio-1/resume is valid on the local computer but not on github.io/...
+    4. Fix issue where .../portfolio-1/resume.html is valid locally and on github but contains a link to a dead image (these issues are probably related)
+    5. Try to incorporate header.html and footer.html directly into resume.html as {\%include\%} tags
 3. Add thumbnails to each portfolio entry (not 100% sure the best way to do this)
     1. Create a "works" page that contains a gallery of the portfolio entries
     2. ~~Get rid of the index.html page and make the works page the default front page~~
