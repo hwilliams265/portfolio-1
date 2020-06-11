@@ -3,7 +3,9 @@ Welcome to my portfolio.
 ### To do:
 1. Make a new "about" page, preferrably in .md format
 2. Add a "resume" page
-    1. Link the resume page next to the about page at the top of the screen
+    1. ~~Link the resume page next to the about page at the top of the screen~~
+    2. Add simple image resume
+    3. Convert resume to html/css page
 3. Add thumbnails to each portfolio entry (not 100% sure the best way to do this)
     1. Create a "works" page that contains a gallery of the portfolio entries
     2. ~~Get rid of the index.html page and make the works page the default front page~~
@@ -14,3 +16,4 @@ Welcome to my portfolio.
 6. Add new portfolio entry for ME461 project
 7. Edit footer so it isn't shit
 8. Once project is over, delete all of the theme files that weren't modified
+9. Once project is fully over, make harryuwilliams.com display the the website.
