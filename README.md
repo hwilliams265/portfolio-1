@@ -4,7 +4,7 @@ Welcome to my portfolio.
 1. Make a new "about" page, preferrably in .md format
 2. Add a "resume" page
     1. ~~Link the resume page next to the about page at the top of the screen~~
-    2. Add simple image resume
+    2. ~~Add a simple image resume~~
     3. Convert resume to html/css page
 3. Add thumbnails to each portfolio entry (not 100% sure the best way to do this)
     1. Create a "works" page that contains a gallery of the portfolio entries
