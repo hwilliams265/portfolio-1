@@ -38,7 +38,7 @@ collections:
 
 header_pages:
   - work.md
-  - resume.md
+  - resume.html
   - about.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
